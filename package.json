@@ -1,0 +1,14 @@
+{
+  "name": "mqtt-broker",
+  "version": "1.0.0",
+  "description": "js mqtt",
+  "main": "app.js",
+  "repository": "https://github.com/thomasbalmant/mqtt-broker.git",
+  "author": "thomasbalmant <thomas_dru@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jsonschema": "^1.4.1",
+    "mosca": "^2.8.3",
+    "mqtt": "^4.3.7"
+  }
+}
