@@ -1,5 +1,5 @@
 //MQTT PUBLISHER
-let mqtt = require('mqtt')
+import { connect } from 'mqtt'
 let client = mqtt.connect('mqtt://localhost:1234')
 let topic = 'Test1234'
 let message = 'Hello World'
