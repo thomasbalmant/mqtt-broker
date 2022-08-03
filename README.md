@@ -6,10 +6,13 @@ JavaScript-based MQTT broker & its client (subscriber & publisher) using Mosca &
 
 ```bash
 # Broker
+- open terminal and use the command
 $ node broker
 
 # Publisher
+- open another terminal and use the command
 $ node pub
 
 # Subscriber
+- open another terminal and use the command
 $ node sub
